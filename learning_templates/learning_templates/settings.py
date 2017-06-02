@@ -25,7 +25,7 @@ SECRET_KEY = 'l2)^2ko49&3#9ssvxr#5iztj$9-2x-33^=3s#=m8(=4c=sh+te'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ 'landonb.pythonanywhere.com']
 
 
 # Application definition
